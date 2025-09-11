@@ -86,33 +86,38 @@ As my "productive" 😃 hobby, I create content on **productivity** at the inter
 **Why:** Keep work observable and portable for retrospectives and capacity planning—without SaaS lock-in.
 [Repo Link](https://github.com/mahirvisoredbroom855/ChronoTrack)
 
-
 ---
 
 ## 🏆 Achievements
-- **Company Member of the Year (2024)** — Greenlawn Fire Department.
-- **CPR Save Award** — recognized for life-saving intervention with GFD.
-- **FIFA/UEFA Football for Friendship** — represented **Bangladesh** on a global youth leadership platform.
-- **Student Senator (TVDSB)** — represented **3,500+** students; proposals & board presentations.
-- **Published to PyPI** — shipped a Python package, versioned, and documented.
-- **Production RAG roll-out** — deployed OpsVista with **p95 chat ≤ 5s**, **≥ 80% citations**, runbooks for **<1-day** onboarding.
-- **YouTube creator** — 300+ subscribers; long-form content on productivity & systems.
+- **Featured in Business Insider** for advocacy on gender equity in football (2021).  
+- **Best Questionnaire Award (2021)** — recognized by **Roberto Carlos** for interview quality.  
+- **Best Young Journalist (2020 & 2021)** — Football for Friendship (F4F).  
+- **Story Writing Competition — 2nd Globally (2020)** — F4F.  
+- **Guinness World Record Participant (2020)** — maximum attendees in a football forum.
 
 ---
 
 ## 💼 Experience
-- **Operations & Software Intern — Precision Textile Industry**  
-  Built **OpsVista** (RAG + ops analytics) to search SOPs, LCs, QA reports; integrated **Supabase RBAC**, **PostgreSQL**, and **FastAPI** services; authored docs, runbooks, and **SLA/SLO** metrics.
-- **Juniors Program Advisor — Greenlawn Fire Department**  
-  Designed drills, training checklists, and progression tracks; mentored juniors; emphasized **accountability, safety, and teamwork**.
-- **Educational Content & Tutoring**  
-  Created **LaTeX** handouts/worksheets (Maths, ICT, Shakespeare) with structured Q&A and answer keys; coached problem-solving and exam strategy.
-- **Research/Scholarly Collaboration**  
-  Assisted in psychology/neuroscience–oriented reading & synthesis; built reproducible note systems and literature matrices to connect evidence to questions.
-- **Open-source & Personal Projects**  
-  - **ChronoTrack** CLI for time tracking & weekly reports (Typer, Rich, SQLite/JSON).  
-  - **SwiftUI experiments** (macOS) for multi-model prompting and UI patterns.  
-  - Internal tools for **report emailing**, **index refresh**, and **data exports**.
+- **Operations Intern — Precision Textile Industry LTD (May–Aug 2025, Bangladesh)**  
+  Owned the **OpsVista Development Specification** as the single source of truth; aligned **3 departments** with feature-level **Objectives/KPIs**; scoped with an **in/out-of-scope matrix** and **6 phase gates (P1–P6)**; led stakeholder interviews and synthesized **100+ technical questions** to surface constraints; defined **data contracts** across **7 domains** and implemented core **Supabase** tables; built an MVP of **OpsVista RAG** (dual-path retrieval, **1536-dim** chunking, batch/API index refresh; **FastAPI + Next.js**, **Supabase RBAC**, trace observability) achieving **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥80% citations**, and **<1-day onboarding**; delivered a company talk on role clarity and escalation paths that improved collaboration and reduced rework.  
+
+- **Performance Marketing Lead — RadiantQuest Digital (Feb–May 2024)**  
+  Built a Facebook/Instagram funnel with **Meta Pixel** and retargeting; monthly P&L review showed ~**$992** ad spend, **27** calls, **4** closes (**ROI ≈ 0.18**); restructured into **3 ad sets (incl. Advantage+)** with the top ad set delivering ~**125k impressions** and **25 calls**; designed neuromarketing creatives, A/B tested copy/visuals; achieved **CPL ~$32–$36**; implemented website deep links and shipped monthly action plans.
+
+- **Project Manager — Engineering Strategies & Practice II, UofT (Jan–Apr 2024)**  
+  Managed a **6-member** team; standardized PM in **Notion** with task hierarchies and weekly **Gantt** updates; contributed to the **Core Design Specification**, stakeholder environment, and prototype architecture diagrams; improved feasibility via early digital prototypes and team norms.
+
+- **Daily Assistant — Engineering Science Education Conference (Feb–Mar 2025)**  
+  Coordinated day-of logistics for a guest speaker (founder/CEO, **Light Matter Interaction**): roadmaps, schedule tracking, room transitions, and guidance across venues.
+
+- **Productivity Strategy Content Creator — YouTube (Jan 2021–Present)**  
+  Long-form videos translating cognitive psychology into practical systems; built a repeatable pipeline (research → narrative → slides → thumbnails → analytics loops).
+
+- **Student Senator — TVDSB (Sep 2023–Apr 2024)**  
+  Represented **3,500+** students; gathered cross-club feedback; presented proposals at board meetings.
+
+- **Young Journalist & Ambassador — Football for Friendship (2019–2021)**  
+  Coordinated cross-border newsroom work across **200+ regions**; produced multimedia reports and interviewed guests (incl. a live question to **Roberto Carlos**); participated in Euronews sessions; awarded **Best Young Journalist (1/211)**.
 
 ---
 
