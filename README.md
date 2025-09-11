@@ -89,6 +89,33 @@ As my "productive" 😃 hobby, I create content on **productivity** at the inter
 
 ---
 
+## 🏆 Achievements
+- **Company Member of the Year (2024)** — Greenlawn Fire Department.
+- **CPR Save Award** — recognized for life-saving intervention with GFD.
+- **FIFA/UEFA Football for Friendship** — represented **Bangladesh** on a global youth leadership platform.
+- **Student Senator (TVDSB)** — represented **3,500+** students; proposals & board presentations.
+- **Published to PyPI** — shipped a Python package, versioned, and documented.
+- **Production RAG roll-out** — deployed OpsVista with **p95 chat ≤ 5s**, **≥ 80% citations**, runbooks for **<1-day** onboarding.
+- **YouTube creator** — 300+ subscribers; long-form content on productivity & systems.
+
+---
+
+## 💼 Experience
+- **Operations & Software Intern — Precision Textile Industry**  
+  Built **OpsVista** (RAG + ops analytics) to search SOPs, LCs, QA reports; integrated **Supabase RBAC**, **PostgreSQL**, and **FastAPI** services; authored docs, runbooks, and **SLA/SLO** metrics.
+- **Juniors Program Advisor — Greenlawn Fire Department**  
+  Designed drills, training checklists, and progression tracks; mentored juniors; emphasized **accountability, safety, and teamwork**.
+- **Educational Content & Tutoring**  
+  Created **LaTeX** handouts/worksheets (Maths, ICT, Shakespeare) with structured Q&A and answer keys; coached problem-solving and exam strategy.
+- **Research/Scholarly Collaboration**  
+  Assisted in psychology/neuroscience–oriented reading & synthesis; built reproducible note systems and literature matrices to connect evidence to questions.
+- **Open-source & Personal Projects**  
+  - **ChronoTrack** CLI for time tracking & weekly reports (Typer, Rich, SQLite/JSON).  
+  - **SwiftUI experiments** (macOS) for multi-model prompting and UI patterns.  
+  - Internal tools for **report emailing**, **index refresh**, and **data exports**.
+
+---
+
 ## 📚 Background
 - **Industrial Engineering @ University of Toronto (BASc + PEY)** — minors in **AI** and **Engineering Business**; coursework in **Programming (Python/Java)**, **Operations Research**, **Probability & Statistics**, and **Systems/Design Practice**.  
 
