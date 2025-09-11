@@ -14,6 +14,30 @@ As my "productive" 😃 hobby, I create content on **productivity** at the inter
 
 ---
 
+
+## 🚀 My Recent Projects
+### OpsVista — Retrieval-Augmented Generation Platform
+**Stack:** FastAPI · Next.js · Supabase (RBAC) · PostgreSQL · OpenAI API · Uvicorn  
+**Highlights:** Dual-path retrieval (enhanced local index + fallback), semantic chunking (1536-dim), batch/API index refresh, trace observability; **answers in seconds** with **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥ 80% citations**, **< 1-day onboarding** via runbooks.  
+[Repo Link](https://github.com/mahirvisoredbroom855/opsvista-software)
+
+### ChronoTrack — Minimal Time & Focus Tracker (CLI)
+**Stack:** Python · Typer · Rich · SQLite/JSON  
+**Overview:** A keyboard-first CLI to log work sessions (start/stop), tag by project/label, add quick notes, and generate daily/weekly summaries with exportable CSV/JSON. Optional Pomodoro-style focus timer.  
+**Why:** Keep work observable and portable for retrospectives and capacity planning—without SaaS lock-in.
+[Repo Link](https://github.com/mahirvisoredbroom855/ChronoTrack)
+
+---
+
+## 🏆 Achievements
+- **Featured in Business Insider (2021)** — Profiled for youth advocacy on **gender equity in football**, highlighting my work amplifying underrepresented voices and promoting inclusion across global fan communities.
+- **Best Questionnaire Award (2021)** — Recognized by **Roberto Carlos** during a live Football for Friendship media session for a high-quality, insight-driven question that stood out among international participants.
+- **Best Young Journalist (2020 & 2021)** — Football for Friendship (F4F). Selected from a large international cohort for consistent reporting quality, interview preparation, and deadline-reliable coverage across cross-border newsroom activities.
+- **Story Writing Competition — 2nd Globally (2020)** — F4F. Awarded for a short piece blending narrative and social impact themes (fair play, teamwork, and community), judged by an international panel.
+- **Guinness World Record Participant (2020)** — Contributed to an F4F event achieving a record for **maximum attendees in a football forum**, coordinating time-zone participation and media workflows.
+
+---
+
 ## 🔧 Tech Stack
 
 ### Languages
@@ -71,29 +95,6 @@ As my "productive" 😃 hobby, I create content on **productivity** at the inter
 - **Pragmatic backends & APIs**: typed Python services (FastAPI), auth/storage integrations, and basic **observability**—shipped with docs, runbooks, and **acceptance criteria** so teams can reproduce results.
 - **IE-informed systems**: map workflows and constraints, design simple **process controls** and feedback loops, and use OR/Stats thinking to turn messy operations into **predictable pipelines**.
 
-
----
-
-## 🚀 My Recent Project
-### OpsVista — Retrieval-Augmented Generation Platform
-**Stack:** FastAPI · Next.js · Supabase (RBAC) · PostgreSQL · OpenAI API · Uvicorn  
-**Highlights:** Dual-path retrieval (enhanced local index + fallback), semantic chunking (1536-dim), batch/API index refresh, trace observability; **answers in seconds** with **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥ 80% citations**, **< 1-day onboarding** via runbooks.  
-[Repo Link](https://github.com/mahirvisoredbroom855/opsvista-software)
-
-### ChronoTrack — Minimal Time & Focus Tracker (CLI)
-**Stack:** Python · Typer · Rich · SQLite/JSON  
-**Overview:** A keyboard-first CLI to log work sessions (start/stop), tag by project/label, add quick notes, and generate daily/weekly summaries with exportable CSV/JSON. Optional Pomodoro-style focus timer.  
-**Why:** Keep work observable and portable for retrospectives and capacity planning—without SaaS lock-in.
-[Repo Link](https://github.com/mahirvisoredbroom855/ChronoTrack)
-
----
-
-## 🏆 Achievements
-- **Featured in Business Insider** for advocacy on gender equity in football (2021).  
-- **Best Questionnaire Award (2021)** — recognized by **Roberto Carlos** for interview quality.  
-- **Best Young Journalist (2020 & 2021)** — Football for Friendship (F4F).  
-- **Story Writing Competition — 2nd Globally (2020)** — F4F.  
-- **Guinness World Record Participant (2020)** — maximum attendees in a football forum.
 
 ---
 
