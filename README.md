@@ -1,11 +1,8 @@
 # Hi, I'm **Shahriyar Ahmed Mahir** 👋  
-**Industrial Engineering • Software Systems • Applied Machine Learning**
 
-I'm a second-year Industrial Engineering + PEY Co-op student at the University of Toronto, focused on building **scalable software systems** that bridge **industrial engineering principles** with **modern software development**. I design solutions that improve operational efficiency, data traceability, and decision velocity across real-world workflows.
+I'm a second-year Industrial Engineering + PEY Co-op student at the University of Toronto. I build **scalable software systems** that combine **industrial engineering principles** with **modern development practices**—focused on operational efficiency, data pipelines, and measurable outcomes.
 
-My interests span **machine intelligence**, **technical consulting**, and **operations management**—with a passion for creating systems that are both technically sound and operationally effective.
-
-As a side project, I produce content on **productivity frameworks** grounded in **cognitive science** and **psychology**, sharing practical strategies for execution and emotional regulation.
+I work on **backend services**, **full-stack applications**, **ML systems**, and **technical consulting**—with interests in machine intelligence, operations management, and productivity frameworks.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahriyar-ahmed-mahir-b585ba2b6/">
@@ -21,28 +18,25 @@ As a side project, I produce content on **productivity frameworks** grounded in 
 
 ---
 
-🚀 Projects
-AetherFlow — Cloud-native data intelligence platform with event-driven ETL/ML pipelines on AWS (ECS, S3, SQS, RDS).
-OpsVista — Production RAG system with semantic retrieval, citation-first responses, and sub-5s latency. Repo
-SlotLab — Full-stack slot simulator with Monte Carlo analytics (100–1M trials) and real-time dashboards.
-Ontario Fiscal Analysis — 75-page government fiscal report with multi-source data synthesis and Power BI dashboards.
-ChronoTrack — CLI time tracker with session management and weekly summaries. Repo
-Real-Time Housing Estimator — ML web app with tuned RandomForest model and typed FastAPI prediction service.
-UTESCA CRM — Led team to build Django/React CRM with RBAC, audit logging, and CI/CD.
+## 🚀 Projects
 
---
+**AetherFlow** — Cloud-native data intelligence platform with event-driven ETL/ML pipelines on AWS (ECS, S3, SQS, RDS).
 
-## 🏆 Recognition
+**OpsVista** — Production RAG system with semantic retrieval, citation-first responses, and sub-5s latency. [Repo](https://github.com/mahirvisoredbroom855/opsvista-software)
 
-- **Featured in Business Insider (2021)** — Profiled for advocacy work on gender equity in football
-- **Best Questionnaire Award (2021)** — Recognized by Roberto Carlos at Football for Friendship media session
-- **Best Young Journalist (2020 & 2021)** — Selected from international cohort for reporting quality and deadline reliability
-- **Story Writing Competition — 2nd Globally (2020)** — Football for Friendship
-- **Guinness World Record Participant (2020)** — Maximum attendees in football forum event
+**SlotLab** — Full-stack slot simulator with Monte Carlo analytics (100–1M trials) and real-time dashboards.
+
+**Ontario Fiscal Analysis** — 75-page government fiscal report with multi-source data synthesis and Power BI dashboards.
+
+**ChronoTrack** — CLI time tracker with session management and weekly summaries. [Repo](https://github.com/mahirvisoredbroom855/ChronoTrack)
+
+**Real-Time Housing Estimator** — ML web app with tuned RandomForest model and typed FastAPI prediction service.
+
+**UTESCA CRM** — Led team to build Django/React CRM with RBAC, audit logging, and CI/CD.
 
 ---
 
-## 🔧 Technical Stack
+## 🔧 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -80,6 +74,15 @@ UTESCA CRM — Led team to build Django/React CRM with RBAC, audit logging, and 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rich](https://img.shields.io/badge/Rich-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### JavaScript/React Libraries
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -98,29 +101,34 @@ UTESCA CRM — Led team to build Django/React CRM with RBAC, audit logging, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black)
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-4D4D4D?style=for-the-badge&logo=localstack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 
 ---
 
-## 🧠 Recent Focus Areas
+## 🤝 Contact
 
-Building **retrieval-aware applications** (RAG, semantic search, document Q&A) with instrumentation for latency, freshness, and citation quality—designed to be explainable and maintainable. Developing **typed backend services** with FastAPI, comprehensive auth/storage integrations, and observability—shipped with documentation, runbooks, and acceptance criteria. Applying **industrial engineering thinking** to software systems by mapping workflows, designing process controls, and using operations research methods to create predictable, measurable pipelines.
-
----
-
-## 🤝 Let's Connect
-
-Open to collaboration on **backend systems**, **full-stack applications**, **system architecture**, or **data/ML features** that prioritize clear documentation, measurable outcomes, and production readiness.
+Open to collaboration on backend systems, full-stack applications, or ML features with clear documentation and measurable outcomes.
 
 **Email:** shahriyar.mahir@mail.utoronto.ca
 
