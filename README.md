@@ -8,9 +8,6 @@ My interests span **machine intelligence**, **technical consulting**, and **oper
 As a side project, I produce content on **productivity frameworks** grounded in **cognitive science** and **psychology**, sharing practical strategies for execution and emotional regulation.
 
 <p align="left">
-  <a href="https://github.com/mahirvisoredbroom855">
-    <img src="https://img.shields.io/github/followers/mahirvisoredbroom855?label=Follow&style=social" />
-  </a>
   <a href="https://www.linkedin.com/in/shahriyar-ahmed-mahir-b585ba2b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,58 +21,16 @@ As a side project, I produce content on **productivity frameworks** grounded in 
 
 ---
 
-## 🚀 Featured Projects
+🚀 Projects
+AetherFlow — Cloud-native data intelligence platform with event-driven ETL/ML pipelines on AWS (ECS, S3, SQS, RDS).
+OpsVista — Production RAG system with semantic retrieval, citation-first responses, and sub-5s latency. Repo
+SlotLab — Full-stack slot simulator with Monte Carlo analytics (100–1M trials) and real-time dashboards.
+Ontario Fiscal Analysis — 75-page government fiscal report with multi-source data synthesis and Power BI dashboards.
+ChronoTrack — CLI time tracker with session management and weekly summaries. Repo
+Real-Time Housing Estimator — ML web app with tuned RandomForest model and typed FastAPI prediction service.
+UTESCA CRM — Led team to build Django/React CRM with RBAC, audit logging, and CI/CD.
 
-### AetherFlow — Cloud-Native Data Intelligence Platform  
-**AWS (ECS Fargate · S3 · SQS · RDS · ALB · IAM · CloudWatch) · Terraform · Docker · GitHub Actions · FastAPI**
-
-Event-driven platform enabling department-aware data processing with async ETL/ML pipelines. Next.js UI connects to FastAPI gateway with JWT/RBAC, triggering S3-to-SQS workflows executed on ECS Fargate, with results stored in RDS Postgres. Infrastructure provisioned as code with Terraform; CI/CD automated via GitHub Actions to ECR/ECS.
-
----
-
-### OpsVista — Retrieval-Augmented Generation Platform  
-**FastAPI · Next.js · Supabase · PostgreSQL · OpenAI API · Uvicorn**  
-[Repository](https://github.com/mahirvisoredbroom855/opsvista-software)
-
-Production RAG system with dual-path retrieval, semantic chunking (1536-dim embeddings), and citation-first response generation. Delivers **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥80% citation accuracy**, with multi-tenant auth, RLS policies, and structured observability.
-
----
-
-### SlotLab — Slot Simulator & Probability Analytics Platform  
-**JavaScript · Vite · React · TypeScript · Tailwind CSS · Node.js · Express · Firebase · Recharts · Mocha/Chai · ESLint · Perl**
-
-Full-stack analytics app combining casino-style gameplay with real-time metrics and Monte Carlo simulation (100–1M trials). Features authenticated API with Firebase Auth/Firestore, live performance dashboards, and export capabilities (JSON/XML/CSV) with Perl ETL for offline analysis.
-
----
-
-### Ontario Fiscal Analysis — Technical Report & Data Analysis  
-**LaTeX · Excel · Power BI**
-
-75-page Treasury Board-style fiscal report synthesizing 10+ government data sources with traceable dataset taxonomy (39 figures). Includes Excel validation pipelines, PivotTable analytics, and Power BI-ready dashboards for executive insights.
-
----
-
-### ChronoTrack — CLI Time & Focus Tracker  
-**Python · Typer · Rich · SQLite/JSON · pytest · GitHub Actions**  
-[Repository](https://github.com/mahirvisoredbroom855/ChronoTrack) · [Demo Video](link)
-
-Keyboard-first CLI for session tracking with project tagging, note capture, and weekly summaries. Built with typed commands, SQLite backend, comprehensive pytest coverage, and automated CI checks.
-
----
-
-### Real-Time Housing Price Estimator — ML Web Application  
-**FastAPI · Pydantic · scikit-learn · React · Vite · TypeScript · Tailwind CSS · Git LFS**
-
-End-to-end ML application featuring GridSearchCV-tuned RandomForestRegressor with typed prediction API. Responsive React frontend with validation, loading states, and error handling; deployment-ready with Git LFS model versioning.
-
----
-
-### UTESCA CRM — Software Consulting (Team Lead)  
-**Django · Django REST Framework · React · TypeScript · PostgreSQL · JWT/RBAC · React Query · Docker**
-
-Led 6-person team to architect CRM from client requirements to production stack. Designed relational schema with Django ORM migrations, role-based access matrix, and audit logging; established sprint execution system with Docker dev environments and CI checks.
-
----
+--
 
 ## 🏆 Recognition
 
