@@ -18,21 +18,93 @@ I work on **backend services**, **full-stack applications**, **ML systems**, and
 
 ---
 
+## 💼 Experience
+
+<table>
+  <tr>
+    <td valign="top" width="34%">
+      <b>Project Management Intern</b><br/>
+      Precision Sourcing Canada<br/>
+      <sub>May 2025 – Aug 2025 · Toronto, ON → Gazipur, Bangladesh</sub>
+    </td>
+    <td valign="top" width="66%">
+      Led the PM workstream for OpsVista—set KPIs/phase gates, aligned cross-functional stakeholders, and strengthened data governance across 7 domains; helped cut deployment timelines (300→120 days) and speed up decisions (5→2 days).
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="34%">
+      <b>Software Consulting Team Lead</b><br/>
+      UTESCA (UofT Engineering Consulting Club)<br/>
+      <sub>Oct 2025 – Present · University of Toronto</sub>
+    </td>
+    <td valign="top" width="66%">
+      Leading a 6-person team building a client CRM—turning interviews into scope, system diagrams, API contracts, and RBAC planning (Django/React/PostgreSQL) with sprint cadence + CI discipline.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="34%">
+      <b>Performance Marketing Lead</b><br/>
+      RadiantQuest Digital<br/>
+      <sub>Feb 2024 – May 2024 · London, ON</sub>
+    </td>
+    <td valign="top" width="66%">
+      Built and optimized acquisition funnels (Meta ads + Excel P&L tracking), improving conversion efficiency and pipeline quality through attribution fixes, A/B testing, and smarter budget shifts.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="34%">
+      <b>Project Manager</b><br/>
+      Engineering Strategies & Practice II (UofT)<br/>
+      <sub>Jan 2025 – Apr 2025 · University of Toronto</sub>
+    </td>
+    <td valign="top" width="66%">
+      Managed a 6-member team—introduced Notion workflows + Gantt baselines to reduce delays and keep milestones predictable while translating interviews into clear requirements.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="34%">
+      <b>Daily Assistant</b><br/>
+      Engineering Science Education Conference (ESEC)<br/>
+      <sub>Feb 2025 – Mar 2025 · University of Toronto</sub>
+    </td>
+    <td valign="top" width="66%">
+      Coordinated day-of speaker logistics (schedule tracking, transitions, venue guidance) to keep sessions smooth and on time for a CEO guest speaker.
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="34%">
+      <b>Productivity Strategy Content Creator</b><br/>
+      YouTube<br/>
+      <sub>Jan 2021 – Present</sub>
+    </td>
+    <td valign="top" width="66%">
+      Create long-form videos translating cognitive science + psychology into practical systems for focus, emotional regulation, and meaningful execution.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Projects
 
-**AetherFlow** — Cloud-native data intelligence platform with event-driven ETL/ML pipelines on AWS (ECS, S3, SQS, RDS).
+**AetherFlow** — A cloud-native data intelligence platform that turns “messy ops data” into clean, usable insights. Built around event-driven pipelines (upload → queue → processing → storage) on AWS (ECS, S3, SQS, RDS) with automation + observability baked in.
 
-**OpsVista** — Production RAG system with semantic retrieval, citation-first responses, and sub-5s latency. [Repo](https://github.com/mahirvisoredbroom855/opsvista-software)
+**OpsVista** — A production-grade RAG system designed for fast, trustworthy answers—semantic retrieval, citation-first responses, and consistent sub-5s user experience. 
 
-**SlotLab** — Full-stack slot simulator with Monte Carlo analytics (100–1M trials) and real-time dashboards.
+**SlotLab** — A casino-style slot simulator that’s also an analytics lab. Play the game, then run Monte Carlo experiments (100–1M trials), visualize probabilities, and track performance with real-time dashboards.
 
-**Ontario Fiscal Analysis** — 75-page government fiscal report with multi-source data synthesis and Power BI dashboards.
+**Ontario Fiscal Analysis** — A 75-page, government-style fiscal analysis report built from multiple public datasets, supported by structured synthesis, clear visualizations, and Power BI dashboards for decision-friendly insights.
 
-**ChronoTrack** — CLI time tracker with session management and weekly summaries. [Repo](https://github.com/mahirvisoredbroom855/ChronoTrack)
+**ChronoTrack** — A minimal, keyboard-first CLI that makes your time visible: start/stop sessions, tag work, add quick notes, and generate weekly summaries you can export for retrospectives. 
 
-**Real-Time Housing Estimator** — ML web app with tuned RandomForest model and typed FastAPI prediction service.
+**Real-Time Housing Estimator** — A full-stack ML web app that predicts housing prices in real time using a tuned RandomForest model, exposed through a typed FastAPI service with clean validation and a responsive UI.
 
-**UTESCA CRM** — Led team to build Django/React CRM with RBAC, audit logging, and CI/CD.
+**UTESCA CRM** — Led a team building a real CRM for a real client: Django + React, role-based access, audit-friendly history, and a CI/CD workflow that keeps the codebase stable while features ship.
 
 ---
 
