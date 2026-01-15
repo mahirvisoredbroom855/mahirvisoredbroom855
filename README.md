@@ -90,24 +90,6 @@ I work on **backend services**, **full-stack applications**, **ML systems**, and
 
 ---
 
-## 🚀 Projects
-
-**AetherFlow** — A cloud-native data intelligence platform that turns “messy ops data” into clean, usable insights. Built around event-driven pipelines (upload → queue → processing → storage) on AWS (ECS, S3, SQS, RDS) with automation + observability baked in.
-
-**OpsVista** — A production-grade RAG system designed for fast, trustworthy answers—semantic retrieval, citation-first responses, and consistent sub-5s user experience. 
-
-**SlotLab** — A casino-style slot simulator that’s also an analytics lab. Play the game, then run Monte Carlo experiments (100–1M trials), visualize probabilities, and track performance with real-time dashboards.
-
-**Ontario Fiscal Analysis** — A 75-page, government-style fiscal analysis report built from multiple public datasets, supported by structured synthesis, clear visualizations, and Power BI dashboards for decision-friendly insights.
-
-**ChronoTrack** — A minimal, keyboard-first CLI that makes your time visible: start/stop sessions, tag work, add quick notes, and generate weekly summaries you can export for retrospectives. 
-
-**Real-Time Housing Estimator** — A full-stack ML web app that predicts housing prices in real time using a tuned RandomForest model, exposed through a typed FastAPI service with clean validation and a responsive UI.
-
-**UTESCA CRM** — Led a team building a real CRM for a real client: Django + React, role-based access, audit-friendly history, and a CI/CD workflow that keeps the codebase stable while features ship.
-
----
-
 ## 🔧 Tech Stack
 
 ### Languages
@@ -195,6 +177,24 @@ I work on **backend services**, **full-stack applications**, **ML systems**, and
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
+
+---
+
+## 🚀 Projects 
+
+**AetherFlow** — A cloud-native data intelligence platform that turns “messy ops data” into clean, usable insights. Built around event-driven pipelines (upload → queue → processing → storage) on AWS (ECS, S3, SQS, RDS) with automation + observability baked in.
+
+**OpsVista** — A production-grade RAG system designed for fast, trustworthy answers—semantic retrieval, citation-first responses, and consistent sub-5s user experience. 
+
+**SlotLab** — A casino-style slot simulator that’s also an analytics lab. Play the game, then run Monte Carlo experiments (100–1M trials), visualize probabilities, and track performance with real-time dashboards.
+
+**Ontario Fiscal Analysis** — A 75-page, government-style fiscal analysis report built from multiple public datasets, supported by structured synthesis, clear visualizations, and Power BI dashboards for decision-friendly insights.
+
+**ChronoTrack** — A minimal, keyboard-first CLI that makes your time visible: start/stop sessions, tag work, add quick notes, and generate weekly summaries you can export for retrospectives. 
+
+**Real-Time Housing Estimator** — A full-stack ML web app that predicts housing prices in real time using a tuned RandomForest model, exposed through a typed FastAPI service with clean validation and a responsive UI.
+
+**UTESCA CRM** — Led a team building a real CRM for a real client: Django + React, role-based access, audit-friendly history, and a CI/CD workflow that keeps the codebase stable while features ship.
 
 ---
 
