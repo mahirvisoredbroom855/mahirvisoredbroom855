@@ -1,200 +1,182 @@
-# Hi, I’m **Shahriyar Ahmed Mahir** 👋  
-**Software • Industrial Engineering • Real-World ML Systems**
+# Hi, I'm **Shahriyar Ahmed Mahir** 👋  
+**Industrial Engineering • Software Systems • Applied Machine Learning**
 
-Hi, I am a second year Industrial Engineering + PEY Co-op student at UofT. I like to synthesize **scalable systems** and design solutions that blend **software engineering** with **industrial engineering** to improve real-world operations. I scout industry workflows, map constraints, and prototype **AI-assisted** processes that increase throughput, quality, and decision speed.
+I'm a second-year Industrial Engineering + PEY Co-op student at the University of Toronto, focused on building **scalable software systems** that bridge **industrial engineering principles** with **modern software development**. I design solutions that improve operational efficiency, data traceability, and decision velocity across real-world workflows.
 
-I’m passionate in **machine intelligence**, **consulting**, and **operations & management**. 
+My interests span **machine intelligence**, **technical consulting**, and **operations management**—with a passion for creating systems that are both technically sound and operationally effective.
 
-As my "productive" 😃 hobby, I create content on **productivity** at the intersection of **cognitive science** and **psychology**—sharing practical frameworks with strategies on emotional regulation, and meaningful execution.
+As a side project, I produce content on **productivity frameworks** grounded in **cognitive science** and **psychology**, sharing practical strategies for execution and emotional regulation.
 
 <p align="left">
   <a href="https://github.com/mahirvisoredbroom855">
     <img src="https://img.shields.io/github/followers/mahirvisoredbroom855?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/shahriyar-ahmed-mahir-b585ba2b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahriyar%20Ahmed%20Mahir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@shahriyarahmedmahir">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://mahirportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-mahirportfolio.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 My Recent Projects
+## 🚀 Featured Projects
 
-### AetherFlow — Cloud-Native, Event-Driven Data Intelligence Platform  
-**Stack:** AWS (ECS Fargate · S3 · SQS · RDS · ALB · IAM · CloudWatch) · Terraform · Docker · GitHub Actions · FastAPI  
-**Highlights:** Event-driven “upload → async ETL/ML → results” pipeline; Next.js UI → FastAPI gateway (JWT/RBAC) → S3 → SQS workers on ECS → RDS Postgres; infra-as-code with Terraform; CI/CD to ECR/ECS; structured logs + CloudWatch observability.  
-**Repo:** *(add link when public)*
+### AetherFlow — Cloud-Native Data Intelligence Platform  
+**AWS (ECS Fargate · S3 · SQS · RDS · ALB · IAM · CloudWatch) · Terraform · Docker · GitHub Actions · FastAPI**
+
+Event-driven platform enabling department-aware data processing with async ETL/ML pipelines. Next.js UI connects to FastAPI gateway with JWT/RBAC, triggering S3-to-SQS workflows executed on ECS Fargate, with results stored in RDS Postgres. Infrastructure provisioned as code with Terraform; CI/CD automated via GitHub Actions to ECR/ECS.
+
+---
 
 ### OpsVista — Retrieval-Augmented Generation Platform  
-**Stack:** FastAPI · Next.js · Supabase (RBAC) · PostgreSQL · OpenAI API · Uvicorn  
-**Highlights:** Dual-path retrieval, semantic chunking (1536-dim), batch/API index refresh, trace observability; **answers in seconds** with **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥ 80% citations**, **< 1-day onboarding** via runbooks.  
-[Repo Link](https://github.com/mahirvisoredbroom855/opsvista-software)
+**FastAPI · Next.js · Supabase · PostgreSQL · OpenAI API · Uvicorn**  
+[Repository](https://github.com/mahirvisoredbroom855/opsvista-software)
 
-### SlotLab — Full-Stack Slot Simulator & Probability Analytics Platform  
-**Stack:** JavaScript · Vite · React · TypeScript · Tailwind CSS · Node.js · Express · Firebase (Auth/Firestore/Hosting/Functions) · Recharts · Mocha/Chai · ESLint · GitHub Actions · Perl · JSON/XML/CSV  
-**Highlights:** Casino-style game + live analytics + Monte Carlo simulation lab (100 → 1,000,000 trials), exports + Perl ETL for offline reporting.  
-**Repo:** *(add link)*
+Production RAG system with dual-path retrieval, semantic chunking (1536-dim embeddings), and citation-first response generation. Delivers **p95 chat ≤ 5s**, **p95 retrieval ≤ 500ms**, **≥80% citation accuracy**, with multi-tenant auth, RLS policies, and structured observability.
+
+---
+
+### SlotLab — Slot Simulator & Probability Analytics Platform  
+**JavaScript · Vite · React · TypeScript · Tailwind CSS · Node.js · Express · Firebase · Recharts · Mocha/Chai · ESLint · Perl**
+
+Full-stack analytics app combining casino-style gameplay with real-time metrics and Monte Carlo simulation (100–1M trials). Features authenticated API with Firebase Auth/Firestore, live performance dashboards, and export capabilities (JSON/XML/CSV) with Perl ETL for offline analysis.
+
+---
 
 ### Ontario Fiscal Analysis — Technical Report & Data Analysis  
-**Stack:** LaTeX · Excel · Power BI  
-**Highlights:** 75-page Treasury Board-style report, traceable dataset taxonomy (39 figures) from 10+ data sources; data QA + pipeline-ready dashboards.  
-**Link:** *(add link)*
+**LaTeX · Excel · Power BI**
 
-### ChronoTrack — Minimal Time & Focus Tracker (CLI)  
-**Stack:** Python · Typer · Rich · SQLite/JSON · pytest · GitHub Actions  
-**Overview:** Keyboard-first CLI to log sessions, tag work, add notes, generate weekly summaries, export CSV/JSON.  
-[Repo Link](https://github.com/mahirvisoredbroom855/ChronoTrack)
+75-page Treasury Board-style fiscal report synthesizing 10+ government data sources with traceable dataset taxonomy (39 figures). Includes Excel validation pipelines, PivotTable analytics, and Power BI-ready dashboards for executive insights.
 
-### Real-Time Housing Price Estimator — Full-Stack ML Web App  
-**Stack:** FastAPI · Pydantic · scikit-learn · React · Vite · TypeScript · Tailwind CSS · Git LFS  
-**Highlights:** Trained/tuned RandomForestRegressor (GridSearchCV), typed prediction API, responsive FE with validation/loading/error states; deployment-ready with CORS notes + large model artifacts tracked.  
-**Repo:** *(add link)*
+---
+
+### ChronoTrack — CLI Time & Focus Tracker  
+**Python · Typer · Rich · SQLite/JSON · pytest · GitHub Actions**  
+[Repository](https://github.com/mahirvisoredbroom855/ChronoTrack) · [Demo Video](link)
+
+Keyboard-first CLI for session tracking with project tagging, note capture, and weekly summaries. Built with typed commands, SQLite backend, comprehensive pytest coverage, and automated CI checks.
+
+---
+
+### Real-Time Housing Price Estimator — ML Web Application  
+**FastAPI · Pydantic · scikit-learn · React · Vite · TypeScript · Tailwind CSS · Git LFS**
+
+End-to-end ML application featuring GridSearchCV-tuned RandomForestRegressor with typed prediction API. Responsive React frontend with validation, loading states, and error handling; deployment-ready with Git LFS model versioning.
+
+---
 
 ### UTESCA CRM — Software Consulting (Team Lead)  
-**Stack:** Django · Django REST Framework · React · TypeScript · PostgreSQL · JWT/RBAC · React Query · Docker · CI (pytest/lint/format)  
-**Highlights:** Turned client interviews into user stories + API contracts + system diagrams; planned relational schema + role matrix + audit logs; sprint execution system (Discord-based build reviews).  
-**Doc/Repo:** *(add link)*
+**Django · Django REST Framework · React · TypeScript · PostgreSQL · JWT/RBAC · React Query · Docker**
+
+Led 6-person team to architect CRM from client requirements to production stack. Designed relational schema with Django ORM migrations, role-based access matrix, and audit logging; established sprint execution system with Docker dev environments and CI checks.
 
 ---
 
-## 🏆 Achievements
-- **Featured in Business Insider (2021)** — Profiled for youth advocacy on **gender equity in football**, highlighting my work amplifying underrepresented voices and promoting inclusion across global fan communities.
-- **Best Questionnaire Award (2021)** — Recognized by **Roberto Carlos** during a live Football for Friendship media session for a high-quality, insight-driven question that stood out among international participants.
-- **Best Young Journalist (2020 & 2021)** — Football for Friendship (F4F). Selected from a large international cohort for consistent reporting quality, interview preparation, and deadline-reliable coverage across cross-border newsroom activities.
-- **Story Writing Competition — 2nd Globally (2020)** — F4F. Awarded for a short piece blending narrative and social impact themes (fair play, teamwork, and community), judged by an international panel.
-- **Guinness World Record Participant (2020)** — Contributed to an F4F event achieving a record for **maximum attendees in a football forum**, coordinating time-zone participation and media workflows.
+## 🏆 Recognition
+
+- **Featured in Business Insider (2021)** — Profiled for advocacy work on gender equity in football
+- **Best Questionnaire Award (2021)** — Recognized by Roberto Carlos at Football for Friendship media session
+- **Best Young Journalist (2020 & 2021)** — Selected from international cohort for reporting quality and deadline reliability
+- **Story Writing Competition — 2nd Globally (2020)** — Football for Friendship
+- **Guinness World Record Participant (2020)** — Maximum attendees in football forum event
 
 ---
 
-## 🔧 Tech Stack (All Frameworks Included)
-
-> If you ever notice an icon missing, it’s usually because the **logo slug doesn’t exist** in Simple Icons. I kept everything listed, and used a clean fallback badge when a logo isn’t available.
+## 🔧 Technical Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-111111?style=for-the-badge&logo=r&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-111111?style=for-the-badge&logo=perl&logoColor=white)
-![XML](https://img.shields.io/badge/XML-111111?style=for-the-badge&logo=xml&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Libraries / Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-111111?style=for-the-badge&logo=python&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-111111?style=for-the-badge&logo=python&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-111111?style=for-the-badge&logo=python&logoColor=white)
-![Rich](https://img.shields.io/badge/Rich-111111?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-111111?style=for-the-badge&logo=python&logoColor=white)
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=python&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-111111?style=for-the-badge&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+### Python Libraries
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![React Router](https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=reactrouter&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-111111?style=for-the-badge&logo=tanstack&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-111111?style=for-the-badge&logo=recharts&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-111111?style=for-the-badge&logo=lucide&logoColor=white)
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Mocha](https://img.shields.io/badge/Mocha-111111?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-111111?style=for-the-badge&logo=chai&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-111111?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-111111?style=for-the-badge&logo=prettier&logoColor=white)
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools / Platforms
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-111111?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
+### DevOps & Testing
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
-![pytest](https://img.shields.io/badge/pytest-111111?style=for-the-badge&logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-111111?style=for-the-badge&logo=ruff&logoColor=white)
-![Black](https://img.shields.io/badge/Black-111111?style=for-the-badge&logo=python&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-111111?style=for-the-badge&logo=python&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=white)
-![pip](https://img.shields.io/badge/pip-111111?style=for-the-badge&logo=pypi&logoColor=white)
-![venv](https://img.shields.io/badge/venv-111111?style=for-the-badge&logo=python&logoColor=white)
-
-![REST](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI/Swagger-111111?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-111111?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
-![LocalStack](https://img.shields.io/badge/LocalStack-111111?style=for-the-badge&logo=localstack&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=white)
-
-![Firestore Rules](https://img.shields.io/badge/Firestore_Rules-111111?style=for-the-badge&logo=firebase&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-111111?style=for-the-badge&logo=yaml&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-111111?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-111111?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+### Tools & Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🧠 What I Recently Built
-- **Retrieval-aware applications** (RAG/semantic search/doc Q&A) that ground answers in sources and are instrumented for **latency, freshness, and quality**—built to be explainable and maintainable.
-- **Pragmatic backends & APIs**: typed Python services (FastAPI), auth/storage integrations, and basic **observability**—shipped with docs, runbooks, and **acceptance criteria** so teams can reproduce results.
-- **IE-informed systems**: map workflows and constraints, design simple **process controls** and feedback loops, and use OR/Stats thinking to turn messy operations into **predictable pipelines**.
+## 🧠 Recent Focus Areas
+
+Building **retrieval-aware applications** (RAG, semantic search, document Q&A) with instrumentation for latency, freshness, and citation quality—designed to be explainable and maintainable. Developing **typed backend services** with FastAPI, comprehensive auth/storage integrations, and observability—shipped with documentation, runbooks, and acceptance criteria. Applying **industrial engineering thinking** to software systems by mapping workflows, designing process controls, and using operations research methods to create predictable, measurable pipelines.
 
 ---
 
-## 🤝 Let’s Collaborate
-If you’re building **backend services**, **full stack systems**, **design specifications**, **architecturing systems** or any **data/ML features** that need clear development of code, documentation and measurable outcomes, I’m happy to chat!
+## 🤝 Let's Connect
 
-**Contact**  
-- Email: **shahriyar.mahir@mail.utoronto.ca**  
+Open to collaboration on **backend systems**, **full-stack applications**, **system architecture**, or **data/ML features** that prioritize clear documentation, measurable outcomes, and production readiness.
+
+**Email:** shahriyar.mahir@mail.utoronto.ca
 
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirvisoredbroom855&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirvisoredbroom855&show_icons=true&theme=tokyonight" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahirvisoredbroom855&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahirvisoredbroom855&theme=tokyonight" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirvisoredbroom855&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirvisoredbroom855&layout=compact&theme=tokyonight" />
 </p>
