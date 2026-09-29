@@ -100,7 +100,7 @@ I work on **backend services**, **full-stack applications**, **ML systems**, and
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack I've Worked Half/Fully With
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
