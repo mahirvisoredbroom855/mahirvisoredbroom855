@@ -1,6 +1,6 @@
 # Hi, I'm **Shahriyar Ahmed Mahir** 👋  
 
-I'm a second-year Industrial Engineering + PEY Co-op student at the University of Toronto. I build **scalable software systems** that combine **industrial engineering principles** with **modern development practices**—focused on operational efficiency, data pipelines, and measurable outcomes.
+I'm a third-year Industrial Engineering + PEY Co-op student at the University of Toronto. I build **scalable software systems** that combine **industrial engineering principles** with **modern development practices**—focused on operational efficiency, data pipelines, and measurable outcomes.
 
 I work on **backend services**, **full-stack applications**, **ML systems**, and **technical consulting**—with interests in machine intelligence, operations management, and productivity frameworks.
 
@@ -23,7 +23,17 @@ I work on **backend services**, **full-stack applications**, **ML systems**, and
 <table>
   <tr>
     <td valign="top" width="34%">
-      <b>Project Management Intern</b><br/>
+      <b>Data Analyst Co-op</b><br/>
+      University of Toronto Scarborough, Arts & Science Co-op Office<br/>
+      <sub>Apr 2026 – Aug 2026 · Toronto, ON</sub>
+    </td>
+    <td valign="top" width="66%">
+      Architected and owned a 7-stage ETL pipeline in Azure Data Factory, ingesting the UofT Job Portal data into a 40,000+ record warehouse end to end; designed the schema and tuned query performance on Azure SQL Managed Instance; built pipeline observability on Azure DevOps release tracking, root-causing failures (permission errors, broken table joins) before they hit downstream reporting; exposed the data to stakeholders via optimized SQL and Power BI dashboards.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="34%">
+      <b>Software Intern</b><br/>
       Precision Sourcing Canada<br/>
       <sub>May 2025 – Aug 2025 · Toronto, ON → Gazipur, Bangladesh</sub>
     </td>
